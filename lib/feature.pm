@@ -5,7 +5,7 @@
 
 package feature;
 
-our $VERSION = '1.56';
+our $VERSION = '1.57';
 
 our %feature = (
     fc              => 'feature_fc',
